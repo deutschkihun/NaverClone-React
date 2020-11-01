@@ -48,8 +48,8 @@ function Header() {
                         <li><a href="/">더보기</a></li>
                     </ul>
                     <div className="keyword">
-                        <span className="color_naver">1</span>
-                        <span>Eoldan spark</span>
+                        <span className="color_naver">1      </span>
+                        <span>Helloword</span>
                     </div>
                 </div>
             </nav>

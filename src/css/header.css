@@ -47,7 +47,7 @@ fieldset {
 }
 
 .search_box input {
-  flex: 9; /* search-box내부에서 9만큼의 크기를 차지(비율) */
+  flex: 7; /* search-box내부에서 9만큼의 크기를 차지(비율) */
   height: 46px;
   padding-left: 12px;
   padding-right: 12px;
@@ -57,7 +57,7 @@ fieldset {
 }
 
 .search_box button {
-  flex: 1; /* search-box내부에서 1만큼의 크기를 차지(비율) */
+  flex: 3; /* search-box내부에서 1만큼의 크기를 차지(비율) */
   height: 46px;
   margin: 0;
   padding: 0;

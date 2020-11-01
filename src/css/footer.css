@@ -29,7 +29,7 @@ footer {
   line-height: 2em; /* 줄간격 */
 }
 .area_user_row {
-  display: flex;
+  display: inline-flex;
 }
 .area_user_row span {
   flex: 1;

@@ -10,7 +10,7 @@ function Footer() {
            <footer>
         <div class="notice_box">
             <a href="/">공지사항</a>
-            <a href="/">서비스 전체보기></a>
+            <a href="/">서비스 전체보기</a>
         </div>
         <div class="aside_box">
             <div class="area_user">
